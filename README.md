@@ -1,8 +1,18 @@
 <h1 align="center">🚀 Subhranshu Nanda</h1>
-<h3 align="center">AI Engineer in Progress • Backend Developer • SpaceTech Enthusiast</h3>
+
+<h3 align="center">
+AI/ML Developer • Full-Stack Project Builder • SpaceTech Enthusiast
+</h3>
 
 <p align="center">
-Building Intelligent Systems that think, detect & decide ⚡
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Computer+Vision+%7C+AI+%7C+Backend;Real-time+Detection+%26+Decision+Making;From+Ideas+→+Real+World+Systems" />
+</p>
+
+<p align="center">
+⚡ Building intelligent systems that think, detect & decide
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=subhranshu-dev&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
