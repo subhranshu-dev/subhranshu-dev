@@ -1,146 +1,133 @@
 <h1 align="center">🚀 Subhranshu Nanda</h1>
-<h3 align="center">AI Engineer in Progress | Backend Developer | SpaceTech Enthusiast</h3>
+<h3 align="center">AI Engineer in Progress • Backend Developer • SpaceTech Enthusiast</h3>
 
 <p align="center">
-Building AI-powered Smart Intelligence Systems 🚀  
-Focused on Computer Vision • Autonomous Systems • Scalable Backend
+Building Intelligent Systems that think, detect & decide ⚡
 </p>
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
 
-🚀 B.Tech CSE student passionate about building **real-world AI systems** and evolving into a **high-impact AI Engineer**  
+👋 Hi there, I'm **Subhranshu**  
 
-💻 Backend-focused developer experienced in **API-driven and full-stack systems** with focus on **scalability & clean architecture**  
-
-🧠 Working deeply in:
-- Artificial Intelligence & Machine Learning  
-- Computer Vision & Intelligent Systems  
-- Backend Engineering & System Design  
-
-🛰️ Exploring **SpaceTech + AI**, aligned with **ISRO / DRDO-level applications**
+🚀 Building AI-powered Smart Intelligence Systems using Computer Vision & Backend Systems  
+💻 Backend Developer focused on scalable API-driven architecture  
+🧠 Interests: AI/ML • Computer Vision • Intelligent Systems  
+🛰️ Exploring SpaceTech & real-world AI applications  
 
 ---
 
-## 🚀 Featured Projects (Live Work)
+## 🚀 Current Focus
 
-🔹 **OmniSense AI**  
-→ AI-powered object detection & smart vision system  
-→ Built using Computer Vision + Hugging Face  
-🔗 *[Add your HF link here]*  
-
-🔹 **AI Surveillance System**  
-→ Real-time person & threat detection  
-→ Smart monitoring + automation  
-
-🔹 **Space Object Tracking System**  
-→ AI-based tracking & detection of space objects  
-→ Focus on intelligent analysis  
-
----
-
-## 🎯 Current Focus
-
-- 🚀 AI for SpaceTech & Remote Sensing  
-- 🛡️ Defense & Surveillance Systems  
+- 🛰️ SpaceTech AI Systems  
+- 🛡️ Surveillance & Detection Systems  
 - 🤖 Autonomous Decision Systems  
-- ⚡ End-to-end AI + Backend Integration  
+- ⚡ AI + Backend Integration  
 
 ---
 
-## 🧠 Skills & Learning
+## 🧠 Learning
 
-### 🔹 Core Foundations
-- Data Structures & Algorithms (Java)  
-- Python & C Programming  
-
-### 🔹 AI / ML
-- Machine Learning & Deep Learning  
-- Computer Vision (CNN, Image Processing)  
-- Feature Engineering & Model Evaluation  
-- Transformers  
-
-### 🔹 Backend & Systems
-- FastAPI & Scalable Backend Systems  
-- REST APIs & System Design  
-- SQL & NoSQL Databases  
-
-### 🔹 Advanced Stack
-- MLOps (Deployment, Monitoring, CI/CD)  
-- Cloud (AWS / GCP Basics)  
-- GPU-based Training  
+- DSA (Java) • Python • C  
+- Machine Learning • Deep Learning  
+- Computer Vision • Transformers  
+- FastAPI • System Design  
+- MLOps • Cloud • GPU Training  
 
 ---
 
-## 🛰️ Vision: SpaceTech + AI
+## 🛰️ Vision
 
-- Satellite Image Processing  
-- Disaster Detection Systems  
-- Crop Monitoring using AI  
-- Autonomous Navigation  
-
----
-
-## 🤖 Smart Intelligence Systems
-
-- AI Surveillance & Monitoring  
-- Intelligent Drones  
-- Real-time Predictive Systems  
+- Satellite image processing  
+- Disaster detection systems  
+- AI-based surveillance  
+- Intelligent autonomous systems  
 
 ---
 
-## ⚙️ Hands-on Approach
+## ⚙️ Approach
 
-✔ Build real-world AI systems  
-✔ Participate in hackathons  
-✔ Focus on scalable implementations  
-✔ Learn by building  
-
----
-
-## 🎯 Career Goal
-
-To become an **AI Engineer in Intelligent Systems & SpaceTech**, contributing to:
-- Deep-tech companies  
-- Advanced research labs  
+- Build real-world AI + backend projects  
+- Hackathons & collaboration  
+- Focus on scalable implementations  
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 Goal
 
-<p align="left">
-<a href="https://linkedin.com/in/subhranshunanda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/SubhrX"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-<a href="mailto:subhransu25112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-<a href="https://huggingface.co/subhranshu05"><img src="https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface"/></a>
-<a href="https://www.kaggle.com/subhransunanda"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
+Become an **AI Engineer (Intelligent Systems + SpaceTech)**  
+→ Target: Research labs & deep-tech companies  
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhranshunanda)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhrX)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhransu25112005@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=subhranshu-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=subhranshu-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 📈 Contribution Graph
 
-*(Keep your badges here but reduce duplicates like Firebase repeated)*
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=subhransu25112005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=subhransu25112005&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhransu25112005&theme=tokyonight&hide_border=true&layout=compact)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 🔥 Developer Mindset
+# 🧠 Top Languages
 
-> "Consistency + Curiosity + Real Projects = Growth 🚀"
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshu-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=subhransu25112005&icon=0&color=6"/>
+  👁️ Visitors  
+</p>
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=subhranshu-dev&icon=0&color=0"/>
 </p>
