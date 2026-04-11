@@ -9,13 +9,23 @@ Building Intelligent Systems that think, detect & decide ⚡
 
 ## 🧠 About Me
 
-👋 Hi there, I'm **Subhranshu**  
+👋 Hi there, I'm **Subhranshu**
 
-🚀 Building AI-powered Smart Intelligence Systems using Computer Vision & Backend Systems  
-💻 Backend Developer focused on scalable API-driven architecture  
+🚀 Building AI-powered Smart Intelligence Systems using Computer Vision, real-time detection, and decision-making  
+
+💻 Built multiple full-stack and API-driven projects focused on clean architecture, scalability, and real-world problem solving  
+
 🧠 Interests: AI/ML • Computer Vision • Intelligent Systems  
-🛰️ Exploring SpaceTech & real-world AI applications  
 
+🛰️ Exploring SpaceTech & real-world AI applications aligned with intelligent systems  
+
+🤝 Looking to collaborate on AI/ML, Computer Vision, and backend system projects  
+
+🛠️ Seeking help in scaling, deploying, and optimizing real-world AI systems  
+
+💬 Ask me about AI systems, APIs, and computer vision  
+
+⚡ Fun fact: I focus more on building real projects than just learning theory
 ---
 
 ## 🚀 Current Focus
