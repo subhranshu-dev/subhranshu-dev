@@ -191,11 +191,23 @@ Become an **AI Engineer (Intelligent Systems + SpaceTech)**
 
 ---
 
-# 🧠 Top Languages
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshu-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 🛰️ AgriSat – AI-Powered Satellite Intelligence System  
+🔹 AI-based system for **satellite image analysis & environmental monitoring**  
+🔹 Focus on **land-use detection, crop monitoring & smart insights**  
+🔹 Built using **Computer Vision + ML models for real-world impact**  
+
+🔗 Project Link: https://github.com/subhranshu-dev/agrisat  
+
+---
+
+### 🤖 OmniAI – Intelligent Multi-System AI Platform  
+🔹 Integrated AI system combining **detection, automation & decision-making**  
+🔹 Supports **real-time processing & smart backend integration**  
+🔹 Designed for **scalable intelligent applications**  
+
+🔗 Project Link: https://github.com/subhranshu-dev/omniai
 
 ---
 
