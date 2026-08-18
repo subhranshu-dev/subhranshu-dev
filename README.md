@@ -564,28 +564,31 @@ Decision
 </div>
 
 ---
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- GITHUB TELEMETRY -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhranshu-dev&theme=github_dark"
-width="100%"
-alt="GitHub profile summary"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 <img
 src="https://streak-stats.demolab.com?user=subhranshu-dev&hide_border=true&background=05070D&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B"
 width="100%"
-alt="GitHub streak"
+alt="GitHub Contribution Streak"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&bg_color=05070D&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH"
+width="100%"
+alt="GitHub Contribution Activity"
 />
 
 </td>
@@ -593,15 +596,51 @@ alt="GitHub streak"
 </tr>
 </table>
 
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshu-dev&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=22D3EE&text_color=CBD5E1"
-width="34%"
-alt="Top languages"
+src="https://img.shields.io/github/followers/subhranshu-dev?style=for-the-badge&label=FOLLOWERS&color=06B6D4&labelColor=05070D"
+alt="GitHub Followers"
 />
 
-</div>
+</td>
 
----
+<td align="center">
+
+<img
+src="https://img.shields.io/github/stars/subhranshu-dev?style=for-the-badge&label=TOTAL%20STARS&color=8B5CF6&labelColor=05070D"
+alt="GitHub Stars"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+src="https://img.shields.io/github/repos/subhranshu-dev?style=for-the-badge&label=REPOSITORIES&color=22C55E&labelColor=05070D"
+alt="GitHub Repositories"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+src="https://img.shields.io/github/last-commit/subhranshu-dev/subhranshu-dev?style=for-the-badge&label=LAST%20COMMIT&color=F59E0B&labelColor=05070D"
+alt="Last Commit"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
