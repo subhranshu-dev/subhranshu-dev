@@ -1,20 +1,67 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Subhranshu+%F0%9F%91%8B;AI%2FML+Developer+%7C+Computer+Vision;Full-Stack+Developer+%7C+Backend+Engineer;Building+Intelligent+Systems+%26+Real-World+AI;AI+%2B+SpaceTech+%2B+Computer+Vision" alt="Typing Introduction" />
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Subhranshu+%F0%9F%91%8B;AI%2FML+Developer+%7C+Computer+Vision;Full-Stack+Developer+%7C+Backend+Engineer;Building+Intelligent+Systems;AI+%2B+SpaceTech+%2B+Real-World+Innovation"
+alt="Animated introduction"
+/>
+
+<br>
+
+<img
+src="https://komarev.com/ghpvc/?username=subhranshu-dev&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge"
+alt="Profile Views"
+/>
+
+<br><br>
+
+<a href="https://github.com/subhranshu-dev">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/subhranshunanda">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://kaggle.com/subhranshunanda">
+<img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=00FF41" alt="Kaggle"/>
+</a>
+&nbsp;
+<a href="https://huggingface.co/subhranshu05">
+<img src="https://img.shields.io/badge/HUGGING%20FACE-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41" alt="Hugging Face"/>
+</a>
+&nbsp;
+<a href="https://x.com/SubhrX">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"/>
+</a>
+&nbsp;
+<a href="mailto:subhransu25112005@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
+</a>
 
 </div>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
 $ whoami
+
 > Subhranshu Nanda — AI/ML Developer & Computer Vision Enthusiast
 
-$ cat mission.txt
+
+$ mission --current
+
 > Building intelligent systems that solve real-world problems.
-> Currently exploring: Computer Vision, LLMs, RAG, GenAI & AI agents.
+> Exploring Computer Vision, LLMs, RAG, GenAI and AI agents.
+
 
 $ status --current
-> 🎓 BTech CSE (3rd Year)
-> 🚀 Learning system design & scalable APIs
-> 🛰️ Exploring AI + SpaceTech + intelligent systems
-
+> 🚀 Building scalable APIs & intelligent applications
+> 👁️ Exploring Computer Vision & real-time AI
+> 🛰️ Exploring AI + SpaceTech
+> ⚡ Always learning. Always building. Always shipping.
 # 🧬 AI SYSTEM BLUEPRINT
 
 <table>
