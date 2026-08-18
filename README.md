@@ -374,7 +374,7 @@ Computer-vision system for precision drone landing using visual markers, pose es
 </tr></table>
 
 <br>
-`COMPUTER VISION` · `REAL-TIME AI` · `INTELLIGENT SYSTEMS`
+
 
 </div>
 
@@ -409,7 +409,6 @@ Computer-vision system for precision drone landing using visual markers, pose es
 <div align="center">
 <img src="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/galaga-contribution-graph-dark.svg" width="100%" alt="Galaga Contribution Arcade"/>
 <br><br>
-`GALAGA` · `REAL CONTRIBUTIONS` · `SPACE ARCADE`
 </div>
 
 ---
@@ -417,7 +416,6 @@ Computer-vision system for precision drone landing using visual markers, pose es
 <div align="center">
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contribution Universe"/>
 <br><br>
-`CONTRIBUTIONS` · `ACTIVITY` · `TIME` · `3D`
 </div>
 
 ---
@@ -468,8 +466,6 @@ Computer-vision system for precision drone landing using visual markers, pose es
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:00FF41,75:0F172A,100:05070D&height=120&section=footer" width="100%" alt="Footer"/>
-<br>
-### `AI` × `VISION` × `GENAI` × `BACKEND` × `SPACETECH`
 <br>
 <sub>Building intelligent systems for the real world.</sub>
 </div>
