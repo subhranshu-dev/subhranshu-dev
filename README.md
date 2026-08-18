@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:06B6D4&height=240&section=header&text=SUBHRANSHU%20NANDA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20COMPUTER%20VISION%20%20%E2%80%A2%20%20FULL-STACK%20%20%E2%80%A2%20%20SPACETECH&descAlignY=61&descSize=15&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0B1120,60:172554,82:4C1D95,100:06B6D4&height=260&section=header&text=SUBHRANSHU%20NANDA&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20COMPUTER%20VISION%20%E2%80%A2%20GENAI%20%E2%80%A2%20SPACETECH&descAlignY=62&descSize=16&animation=fadeIn"
+/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems;Computer+Vision+%7C+AI+%7C+Backend;LLMs+%7C+RAG+%7C+Generative+AI;Real-Time+Detection+%26+Decision+Making;AI+%2B+SpaceTech+%2B+Intelligent+Systems" />
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=Building+Intelligent+Systems;Computer+Vision+%2B+AI+%2B+Backend;LLMs+%7C+RAG+%7C+GenAI+%7C+MCP;Real-Time+Detection+%26+Decision+Systems;AI+%2B+SpaceTech"
+/>
 
 <br><br>
 
@@ -12,136 +20,102 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-22C55E?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/GENAI-8B5CF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPACETECH-F97316?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/BACKEND-0F172A?style=for-the-badge&logo=fastapi&logoColor=06B6D4"/>
-
-<br><br>
-
 <a href="https://github.com/subhranshu-dev">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/subhranshunanda">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://kaggle.com/subhranshunanda">
-<img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/KAGGLE-0EA5E9?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://huggingface.co/subhranshu05">
-<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</a>
-
-<a href="https://x.com/SubhrX">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:subhransu25112005@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FACC15?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 <br><br>
 
-### `AI/ML DEVELOPER` · `COMPUTER VISION` · `FULL-STACK` · `SPACETECH`
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/GENAI-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/BACKEND-38BDF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/SPACETECH-F97316?style=flat-square"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+
+### `AI / ML ENGINEER`
+
+Building intelligent systems across  
+**vision · data · models · reasoning · APIs**
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 🧠 ABOUT ME
+## `01` · ABOUT ME
 
 </div>
 
 <table>
 <tr>
 
-<td width="52%" valign="top">
+<td width="58%" valign="top">
 
 ### 👋 Hi, I'm Subhranshu
 
-🚀 Building **AI-powered intelligent systems** using Machine Learning, Computer Vision, real-time detection and decision-making.
+I build **AI-powered intelligent systems** combining machine learning, computer vision, generative AI and backend engineering.
 
-💻 Building full-stack and API-driven applications with a focus on clean architecture, scalable systems and practical problem solving.
+My work focuses on turning data into systems that can:
 
-🧠 Exploring modern AI through:
+`PERCEIVE` → `UNDERSTAND` → `REASON` → `ACT`
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLMs
-- Generative AI
-- RAG
-- MCP
-- Intelligent Systems
+**Core interests**
 
-🛰️ Interested in **SpaceTech and real-world AI applications**.
-
-🤝 Open to collaboration on interesting **AI/ML, Computer Vision and backend projects**.
+- Machine Learning & Deep Learning
+- Computer Vision & Real-Time Detection
+- LLMs & Generative AI
+- RAG & AI Agents
+- MCP & AI infrastructure
+- Backend & API systems
+- Satellite / SpaceTech applications
 
 </td>
 
-<td width="48%" valign="top">
+<td width="42%" valign="top">
 
-### ⚡ WHAT I BUILD
+### `BUILDING`
 
 <table>
-
 <tr>
-<td align="center">
-
-🧠  
-<b>AI SYSTEMS</b>
-
-</td>
-<td align="center">
-
-👁️  
-<b>VISION</b>
-
-</td>
+<td align="center">👁️<br><b>VISION</b></td>
+<td align="center">🧠<br><b>AI</b></td>
 </tr>
-
 <tr>
-<td align="center">
-
-🤖  
-<b>GENAI</b>
-
-</td>
-<td align="center">
-
-⚙️  
-<b>BACKEND</b>
-
-</td>
+<td align="center">🔗<br><b>RAG</b></td>
+<td align="center">⚡<br><b>GENAI</b></td>
 </tr>
-
 <tr>
-<td align="center">
-
-🛰️  
-<b>SPACETECH</b>
-
-</td>
-<td align="center">
-
-🚀  
-<b>REAL-WORLD APPS</b>
-
-</td>
+<td align="center">⚙️<br><b>BACKEND</b></td>
+<td align="center">🛰️<br><b>SPACETECH</b></td>
 </tr>
-
 </table>
-
-<br>
-
-`PERCEPTION` → `INTELLIGENCE` → `ACTION`
 
 </td>
 
@@ -150,41 +124,56 @@
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  INTELLIGENT SYSTEM                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 🧬 AI SYSTEM BLUEPRINT
+## `02` · INTELLIGENT SYSTEM ARCHITECTURE
 
 <table>
-
 <tr>
 
 <td align="center" width="20%">
 
-### 👁️
+### `01`
+
+👁️
 
 **PERCEPTION**
 
 Computer Vision  
-Object Detection  
-Image Processing
+Detection  
+Images  
+Video
 
 </td>
 
+<td align="center">→</td>
+
 <td align="center" width="20%">
 
-### 🗃️
+### `02`
+
+🗃️
 
 **DATA**
 
 Datasets  
 Annotation  
+Embeddings  
 Knowledge
 
 </td>
 
+<td align="center">→</td>
+
 <td align="center" width="20%">
 
-### 🧠
+### `03`
+
+🧠
 
 **INTELLIGENCE**
 
@@ -195,22 +184,30 @@ GenAI
 
 </td>
 
+<td align="center">→</td>
+
 <td align="center" width="20%">
 
-### 🔗
+### `04`
+
+🔗
 
 **REASONING**
 
 RAG  
 MCP  
-AI Agents  
+Agents  
 Decision Systems
 
 </td>
 
+<td align="center">→</td>
+
 <td align="center" width="20%">
 
-### ⚡
+### `05`
+
+⚡
 
 **ACTION**
 
@@ -222,18 +219,17 @@ Real-Time Systems
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
 <img src="https://img.shields.io/badge/PERCEPTION-06B6D4?style=for-the-badge&labelColor=020617"/>
 &nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/DATA-8B5CF6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/DATA-0EA5E9?style=for-the-badge&labelColor=020617"/>
 &nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/INTELLIGENCE-F43F5E?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/INTELLIGENCE-8B5CF6?style=for-the-badge&labelColor=020617"/>
 &nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/REASONING-F59E0B?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/REASONING-F43F5E?style=for-the-badge&labelColor=020617"/>
 &nbsp;→&nbsp;
 <img src="https://img.shields.io/badge/ACTION-22C55E?style=for-the-badge&labelColor=020617"/>
 
@@ -241,58 +237,79 @@ Real-Time Systems
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CURRENT LEARNING                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 📚 CURRENT LEARNING
+## `03` · CURRENT LEARNING
 
 <table>
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🤖 MODERN AI
+### 🧠 MODERN AI
 
-- Large Language Models — **LLMs**
-- Generative AI
-- Prompt Engineering
-- AI Agents
-- Retrieval-Augmented Generation — **RAG**
-- Embeddings
-- Semantic Search
-- Model Integration
+`LLMs`
+
+`Generative AI`
+
+`Transformers`
+
+`Prompt Engineering`
+
+`AI Agents`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🔌 AI INFRASTRUCTURE
+### 🔗 KNOWLEDGE AI
 
-- Model Context Protocol — **MCP**
-- AI APIs
-- Knowledge Systems
-- Vector Search
-- Agentic Workflows
-- AI + Backend Integration
-- Production AI Systems
+`RAG`
+
+`Embeddings`
+
+`Vector Search`
+
+`Semantic Search`
+
+`Knowledge Systems`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### ⚡ AI INFRA
+
+`MCP`
+
+`AI APIs`
+
+`Agentic Workflows`
+
+`AI + Backend`
+
+`Production AI`
 
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
-### 💻 CORE
+### CORE ENGINEERING
 
 `DSA (Java)` · `Python` · `C` · `FastAPI` · `System Design`
 
-### 👁️ VISION
+### VISION
 
-`Computer Vision` · `Transformers` · `Object Detection` · `Real-Time Vision`
+`Computer Vision` · `Object Detection` · `Tracking` · `Image Processing` · `YOLO`
 
-### ☁️ PRODUCTION
+### PRODUCTION
 
 `MLOps` · `Cloud` · `GPU Training` · `Model Deployment`
 
@@ -300,22 +317,23 @@ Real-Time Systems
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                COMPUTER VISION + DATA LAB                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 👁️ COMPUTER VISION & DATA LAB
+## `04` · COMPUTER VISION × DATA LAB
 
 <table>
-
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" valign="top" align="center">
 
 ### 🏷️ DATA ANNOTATION
 
-<img src="https://img.shields.io/badge/LABEL%20STUDIO-1F2937?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/LABEL%20STUDIO-111827?style=for-the-badge"/>
 <br><br>
-
 <img src="https://img.shields.io/badge/CVAT-06B6D4?style=for-the-badge"/>
 
 <br><br>
@@ -327,27 +345,25 @@ Dataset Preparation
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top" align="center">
 
 ### 👁️ COMPUTER VISION
 
 <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
 <br><br>
-
-<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/YOLO-020617?style=for-the-badge"/>
 <br><br>
-
 <img src="https://img.shields.io/badge/MEDIAPIPE-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
 
 <br><br>
 
-Detection · Tracking · Image Processing
+Detection · Tracking  
+Image Processing  
+Real-Time Vision
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top" align="center">
 
 ### 🧪 DATA PIPELINE
 
@@ -376,16 +392,19 @@ Detection · Tracking · Image Processing
 </td>
 
 </tr>
-
 </table>
 
 </div>
 
 ---
 
-# 💻 TECHNOLOGY MATRIX
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECHNOLOGY UNIVERSE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+## `05` · TECHNOLOGY UNIVERSE
 
 <table>
 
@@ -393,36 +412,43 @@ Detection · Tracking · Image Processing
 
 <td width="50%" valign="top">
 
-## 🧠 AI / ML / DATA
+### 🧠 `AI / ML / DATA`
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## ✨ LLM / GENAI
+### ✨ `LLM / GENAI`
 
 <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GENAI-06B6D4?style=for-the-badge"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/MCP-22C55E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20AGENTS-F43F5E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-8B5CF6?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SEMANTIC%20SEARCH-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TRANSFORMERS-F59E0B?style=for-the-badge"/>
 
 </td>
 
@@ -432,25 +458,40 @@ Detection · Tracking · Image Processing
 
 <td width="50%" valign="top">
 
-## 👁️ COMPUTER VISION
+### 👁️ `COMPUTER VISION`
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-020617?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+
+<br><br>
+
+`Detection` · `Tracking` · `Segmentation`
+
+`Image Processing` · `Real-Time Vision`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🏷️ DATA ANNOTATION
+### 🏷️ `DATA ANNOTATION`
 
 <img src="https://img.shields.io/badge/Label%20Studio-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CVAT-06B6D4?style=for-the-badge"/>
 
 <br><br>
 
-`Dataset Preparation` · `Annotation` · `Segmentation`
+`Image Annotation`
+
+`Object Detection`
+
+`Segmentation`
+
+`Dataset Preparation`
 
 </td>
 
@@ -460,7 +501,7 @@ Detection · Tracking · Image Processing
 
 <td width="50%" valign="top">
 
-## ⚙️ BACKEND & APIs
+### ⚙️ `BACKEND / APIs`
 
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -473,20 +514,28 @@ Detection · Tracking · Image Processing
 <br>
 
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAPI-000000?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAPI-111827?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+
+<br><br>
+
+`REST APIs` · `API Integration` · `System Design`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎨 FRONTEND
+### 🎨 `FRONTEND`
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <br><br>
 
-`Responsive UI` · `API Integration` · `Modern Web Apps`
+`Responsive UI`
+
+`Modern Web Apps`
+
+`API Integration`
 
 </td>
 
@@ -496,17 +545,20 @@ Detection · Tracking · Image Processing
 
 <td width="50%" valign="top">
 
-## 🗄️ DATABASE
+### 🗄️ `DATABASE`
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚀 DEPLOYMENT & DEVOPS
+### 🚀 `DEPLOYMENT / DEVOPS`
 
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -535,36 +587,34 @@ Detection · Tracking · Image Processing
 
 <td width="50%" valign="top">
 
-## 🧪 TESTING & TOOLS
+### 🧪 `ENGINEERING TOOLS`
 
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔧 VERSION CONTROL
-
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-## 🎬 CREATIVE & DESIGN
+### 🎬 `CREATIVE`
 
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </td>
@@ -577,89 +627,125 @@ Detection · Tracking · Image Processing
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ANALYTICS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+## `06` · GITHUB ANALYTICS
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhranshu-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=subhranshu-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070D&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1"
+width="100%"
+alt="GitHub statistics"
+/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top" align="center">
 
-<img src="https://streak-stats.demolab.com?user=subhranshu-dev&theme=tokyonight&hide_border=true" width="100%"/>
+<img
+src="https://streak-stats.demolab.com?user=subhranshu-dev&hide_border=true&background=05070D&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B"
+width="100%"
+alt="GitHub streak"
+/>
 
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshu-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshu-dev&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=22D3EE&text_color=CBD5E1"
+width="42%"
+alt="Top programming languages"
+/>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION GRAPH                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 📈 CONTRIBUTION GRAPH
+## `07` · CONTRIBUTION GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&bg_color=05070D&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH"
+width="100%"
+alt="GitHub contribution graph"
+/>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         GALAGA                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 🛸 GALAGA CONTRIBUTION ARCADE
+## `08` · 🛸 GALAGA CONTRIBUTION ARCADE
 
 <img
 src="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/galaga-contribution-graph-dark.svg"
 width="100%"
-alt="Galaga Contribution Arcade"
+alt="Galaga contribution arcade"
 />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/GAME-GALAGA-06B6D4?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/GALAGA-SPACE%20ARCADE-06B6D4?style=for-the-badge&labelColor=020617"/>
 <img src="https://img.shields.io/badge/DATA-REAL%20CONTRIBUTIONS-22C55E?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/MODE-SPACE%20ARCADE-8B5CF6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MODE-CONTRIBUTION%20GAME-8B5CF6?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         3D UNIVERSE                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 🧊 3D CONTRIBUTION UNIVERSE
+## `09` · 🧊 3D CONTRIBUTION UNIVERSE
 
 <img
 src="./profile-3d-contrib/profile-green-animate.svg"
 width="100%"
-alt="3D GitHub Contribution Universe"
+alt="3D GitHub contribution universe"
 />
 
-<br><br>
+<br>
 
-`CONTRIBUTIONS` · `ACTIVITY` · `TIME` · `3D`
+`ACTIVITY` · `TIME` · `CONTRIBUTIONS` · `3D`
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
+## `10` · FEATURED PROJECTS
+
+</div>
 
 <table>
 
@@ -667,53 +753,67 @@ alt="3D GitHub Contribution Universe"
 
 <td width="50%" valign="top">
 
-## 🛰️ AgriSat
+<div align="center">
 
-### AI-Powered Satellite Intelligence System
+### 🛰️ AGRISAT
 
-AI-based system for:
+**AI-Powered Satellite Intelligence System**
 
-- Satellite image analysis
-- Environmental monitoring
-- Land-use detection
-- Crop monitoring
-- Smart insights
+</div>
 
-**Core**
+AI system focused on satellite imagery and environmental intelligence.
 
-`Computer Vision` · `Machine Learning` · `Satellite Intelligence`
+**Focus**
+
+`Satellite Intelligence`  
+`Computer Vision`  
+`Machine Learning`  
+`Environmental Monitoring`
 
 <br>
 
-🔗 **Project**
+<div align="center">
 
-https://github.com/subhranshu-dev/agrisat
+<a href="https://github.com/subhranshu-dev/agrisat">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 OmniAI
+<div align="center">
 
-### Intelligent Multi-System AI Platform
+### 🤖 OMNIAI
 
-Integrated AI system focused on:
+**Intelligent Multi-System AI Platform**
 
-- Detection
-- Automation
-- Decision-making
-- Real-time processing
-- Backend integration
+</div>
 
-**Core**
+AI platform combining intelligent processing, automation and backend systems.
 
-`AI` · `Automation` · `Backend` · `Real-Time Systems`
+**Focus**
+
+`AI Systems`  
+`Automation`  
+`Real-Time Processing`  
+`Backend Integration`
 
 <br>
 
-🔗 **Project**
+<div align="center">
 
-https://github.com/subhranshu-dev/omniai
+<a href="https://github.com/subhranshu-dev/omniai">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
 
 </td>
 
@@ -721,53 +821,67 @@ https://github.com/subhranshu-dev/omniai
 
 </table>
 
-</div>
-
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 PREMIUM FEATURE / SYSTEM MAP                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🧠 INTELLIGENT SYSTEM FLOW
+## `11` · AI SYSTEM MAP
 
 <table>
 
 <tr>
 
-<td align="center">
+<td align="center" width="20%">
 
-### 01
+### `VISION`
 
 👁️
 
-**PERCEIVE**
+**SEE**
 
-Vision  
-Text  
-Data
+Images  
+Video  
+Objects
 
 </td>
 
 <td align="center">
 
-### 02
+`→`
+
+</td>
+
+<td align="center" width="20%">
+
+### `DATA`
 
 🗃️
 
-**PREPARE**
+**LEARN**
 
-Collect  
-Annotate  
-Clean
+Datasets  
+Annotations  
+Knowledge
 
 </td>
 
 <td align="center">
 
-### 03
+`→`
+
+</td>
+
+<td align="center" width="20%">
+
+### `MODELS`
 
 🧠
 
-**LEARN**
+**THINK**
 
 ML  
 DL  
@@ -777,7 +891,13 @@ LLMs
 
 <td align="center">
 
-### 04
+`→`
+
+</td>
+
+<td align="center" width="20%">
+
+### `REASONING`
 
 🔗
 
@@ -791,13 +911,19 @@ Agents
 
 <td align="center">
 
-### 05
+`→`
+
+</td>
+
+<td align="center" width="20%">
+
+### `SYSTEMS`
 
 ⚡
 
 **ACT**
 
-API  
+APIs  
 Automation  
 Deployment
 
@@ -809,62 +935,60 @@ Deployment
 
 <br>
 
-<img src="https://img.shields.io/badge/DATA-06B6D4?style=for-the-badge&labelColor=020617"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/MODEL-8B5CF6?style=for-the-badge&labelColor=020617"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/REASONING-F43F5E?style=for-the-badge&labelColor=020617"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/ACTION-22C55E?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/BUILDING-INTELLIGENT%20SYSTEMS-06B6D4?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SPACETECH-8B5CF6?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           CONNECT                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 🌐 CONNECT
+## `12` · CONNECT
+
+<br>
 
 <a href="https://linkedin.com/in/subhranshunanda">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/SubhrX">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="https://kaggle.com/subhranshunanda">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="https://huggingface.co/subhranshu05">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FACC15?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 <a href="https://github.com/subhranshu-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:subhransu25112005@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
-
-<br><br>
-
-<img src="https://visitcount.itsvg.in/api?id=subhranshu-dev&icon=0&color=0"/>
+`AI` × `VISION` × `GENAI` × `BACKEND` × `SPACETECH`
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,40:06B6D4,70:312E81,100:020617&height=130&section=footer" width="100%"/>
-
-### `AI` × `VISION` × `GENAI` × `BACKEND` × `SPACETECH`
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,65:4C1D95,100:06B6D4&height=130&section=footer"
+width="100%"
+/>
 
 </div>
