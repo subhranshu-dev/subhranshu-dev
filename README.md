@@ -386,7 +386,9 @@ Computer-vision system for precision drone landing using visual markers, pose es
 
 <table><tr>
 <td width="50%" align="center">
-<img src="https://streak-stats.demolab.com?user=subhranshu-dev&hide_border=true&background=05070D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=94A3B8" width="100%" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/subhranshu-dev">
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=subhranshu-dev&theme=dark&hide_border=true" width="100%" alt="GitHub Contribution Streak"/>
+</a>
 </td>
 <td width="50%" align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&bg_color=05070D&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH" width="100%" alt="GitHub Contribution Activity"/>
@@ -397,7 +399,6 @@ Computer-vision system for precision drone landing using visual markers, pose es
 <table><tr>
 <td align="center"><img src="https://img.shields.io/github/followers/subhranshu-dev?style=for-the-badge&label=FOLLOWERS&color=00FF41&labelColor=05070D" alt="GitHub Followers"/></td>
 <td align="center"><img src="https://img.shields.io/github/stars/subhranshu-dev?style=for-the-badge&label=TOTAL%20STARS&color=00FF41&labelColor=05070D" alt="GitHub Stars"/></td>
-<td align="center"><img src="https://img.shields.io/github/repos/subhranshu-dev?style=for-the-badge&label=REPOSITORIES&color=00FF41&labelColor=05070D" alt="GitHub Repositories"/></td>
 <td align="center"><img src="https://img.shields.io/github/last-commit/subhranshu-dev/subhranshu-dev?style=for-the-badge&label=LAST%20COMMIT&color=00FF41&labelColor=05070D" alt="Last Commit"/></td>
 </tr></table>
 
