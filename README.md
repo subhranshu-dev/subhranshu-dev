@@ -585,23 +585,15 @@ Detection · Tracking · Image Processing
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%">
 
-<img
-src="https://streak-stats.demolab.com?user=subhranshu-dev&hide_border=true&background=05070D&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B"
-width="100%"
-alt="GitHub Contribution Streak"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=subhranshu-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&bg_color=05070D&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH"
-width="100%"
-alt="GitHub Contribution Activity"
-/>
+<img src="https://streak-stats.demolab.com?user=subhranshu-dev&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 
@@ -611,49 +603,17 @@ alt="GitHub Contribution Activity"
 
 <br>
 
-<table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshu-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
 
-<tr>
+</div>
 
-<td align="center">
+---
 
-<img
-src="https://img.shields.io/github/followers/subhranshu-dev?style=for-the-badge&label=FOLLOWERS&color=06B6D4&labelColor=05070D"
-alt="GitHub Followers"
-/>
+<div align="center">
 
-</td>
+# 📈 CONTRIBUTION GRAPH
 
-<td align="center">
-
-<img
-src="https://img.shields.io/github/stars/subhranshu-dev?style=for-the-badge&label=TOTAL%20STARS&color=8B5CF6&labelColor=05070D"
-alt="GitHub Stars"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-src="https://img.shields.io/github/repos/subhranshu-dev?style=for-the-badge&label=REPOSITORIES&color=22C55E&labelColor=05070D"
-alt="GitHub Repositories"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-src="https://img.shields.io/github/last-commit/subhranshu-dev/subhranshu-dev?style=for-the-badge&label=LAST%20COMMIT&color=F59E0B&labelColor=05070D"
-alt="Last Commit"
-/>
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH" width="100%"/>
 
 </div>
 
