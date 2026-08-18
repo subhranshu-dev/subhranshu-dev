@@ -1,187 +1,19 @@
 <div align="center">
 
-<a href="https://github.com/subhranshu-dev">
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:06B6D4&height=240&section=header&text=SUBHRANSHU%20NANDA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20COMPUTER%20VISION%20%20%E2%80%A2%20%20FULL-STACK%20%20%E2%80%A2%20%20SPACETECH&descAlignY=61&descSize=15&animation=fadeIn"
-width="100%"
-alt="Subhranshu Nanda"
-/>
-</a>
-
-<br>
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems;Computer+Vision+%7C+AI+%7C+Backend;LLMs+%7C+RAG+%7C+Generative+AI;Real-Time+Detection+%26+Decision+Making;AI+%2B+SpaceTech+%2B+Intelligent+Systems"
-alt="Typing introduction"
-/>
-
-<br><br>
-
-<a href="https://github.com/subhranshu-dev">
-<img
-src="https://komarev.com/ghpvc/?username=subhranshu-dev&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"
-alt="Profile Views"
-/>
-</a>
-
-<br><br>
-
-<a href="#ai--ml">
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=for-the-badge&logoColor=white" alt="AI ML"/>
-</a>
-
-<a href="#computer-vision--data-lab">
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-22C55E?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-</a>
-
-<a href="#llm--genai">
-<img src="https://img.shields.io/badge/GENAI-8B5CF6?style=for-the-badge&logoColor=white" alt="GenAI"/>
-</a>
-
-<a href="#featured-projects">
-<img src="https://img.shields.io/badge/SPACETECH-F97316?style=for-the-badge&logoColor=white" alt="SpaceTech"/>
-</a>
-
-<a href="#backend--apis">
-<img src="https://img.shields.io/badge/BACKEND-0F172A?style=for-the-badge&logo=fastapi&logoColor=06B6D4" alt="Backend"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/subhranshu-dev">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://linkedin.com/in/subhranshunanda">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://kaggle.com/subhranshunanda">
-<img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>
-
-<a href="https://huggingface.co/subhranshu05">
-<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
-
-<a href="https://x.com/SubhrX">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-
-<a href="mailto:subhransu25112005@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-### `AI/ML DEVELOPER` · `COMPUTER VISION` · `FULL-STACK` · `SPACETECH`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Subhranshu+%F0%9F%91%8B;AI%2FML+Developer+%7C+Computer+Vision;Full-Stack+Developer+%7C+Backend+Engineer;Building+Intelligent+Systems+%26+Real-World+AI;AI+%2B+SpaceTech+%2B+Computer+Vision" alt="Typing Introduction" />
 
 </div>
+$ whoami
+> Subhranshu Nanda — AI/ML Developer & Computer Vision Enthusiast
 
----
+$ cat mission.txt
+> Building intelligent systems that solve real-world problems.
+> Currently exploring: Computer Vision, LLMs, RAG, GenAI & AI agents.
 
-<div align="center">
-
-# 🧠 ABOUT ME
-
-</div>
-
-<table>
-<tr>
-
-<td width="52%" valign="top">
-
-### 👋 Hi, I'm Subhranshu
-
-🚀 Building **AI-powered intelligent systems** using Machine Learning, Computer Vision, real-time detection and decision-making.
-
-💻 Building full-stack and API-driven applications with a focus on clean architecture, scalable systems and practical problem solving.
-
-🧠 Exploring modern AI through:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLMs
-- Generative AI
-- RAG
-- MCP
-- Intelligent Systems
-
-🛰️ Interested in **SpaceTech and real-world AI applications**.
-
-🤝 Open to collaboration on interesting **AI/ML, Computer Vision and backend projects**.
-
-</td>
-
-<td width="48%" valign="top">
-
-### ⚡ WHAT I BUILD
-
-<table>
-
-<tr>
-<td align="center">
-
-🧠  
-<b>AI SYSTEMS</b>
-
-</td>
-
-<td align="center">
-
-👁️  
-<b>VISION</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🤖  
-<b>GENAI</b>
-
-</td>
-
-<td align="center">
-
-⚙️  
-<b>BACKEND</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🛰️  
-<b>SPACETECH</b>
-
-</td>
-
-<td align="center">
-
-🚀  
-<b>REAL-WORLD APPS</b>
-
-</td>
-</tr>
-
-</table>
-
-<br>
-
-`PERCEPTION` → `INTELLIGENCE` → `ACTION`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
+$ status --current
+> 🎓 BTech CSE (3rd Year)
+> 🚀 Learning system design & scalable APIs
+> 🛰️ Exploring AI + SpaceTech + intelligent systems
 
 # 🧬 AI SYSTEM BLUEPRINT
 
