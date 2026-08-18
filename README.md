@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-<!--                         HERO CORE                            -->
-<!-- ═════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HERO -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0B1120,50:172554,75:312E81,100:06B6D4&height=230&section=header&text=SUBHRANSHU%20NANDA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%E2%80%A2%20COMPUTER%20VISION%20%E2%80%A2%20GENAI%20%E2%80%A2%20BACKEND%20%E2%80%A2%20SPACETECH&descAlignY=62&descSize=15&animation=fadeIn"
@@ -78,8 +78,6 @@ My focus spans:
 </tr>
 </table>
 
-<br>
-
 `PERCEIVE` → `REASON` → `ACT`
 
 </td>
@@ -92,8 +90,6 @@ My focus spans:
 <div align="center">
 
 # `02` // INTELLIGENT SYSTEM
-
-### 🧠 FROM RAW DATA TO REAL-WORLD ACTION
 
 <table>
 <tr>
@@ -291,7 +287,6 @@ Decision
 # `04` // COMPUTER VISION × DATA LAB
 
 <table>
-
 <tr>
 
 <td width="33%" align="center" valign="top">
@@ -362,7 +357,6 @@ Decision
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -573,25 +567,25 @@ Decision
 
 <div align="center">
 
-# `06` // GITHUB ANALYTICS
-
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=subhranshu-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=05070D&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhranshu-dev&theme=github_dark"
 width="100%"
+alt="GitHub profile summary"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 <img
 src="https://streak-stats.demolab.com?user=subhranshu-dev&hide_border=true&background=05070D&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B"
 width="100%"
+alt="GitHub streak"
 />
 
 </td>
@@ -601,7 +595,8 @@ width="100%"
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranshu-dev&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=22D3EE&text_color=CBD5E1"
-width="38%"
+width="34%"
+alt="Top languages"
 />
 
 </div>
@@ -609,12 +604,11 @@ width="38%"
 ---
 
 <div align="center">
-
-# `07` // CONTRIBUTION GRAPH
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&bg_color=05070D&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH"
 width="100%"
+alt="GitHub contribution graph"
 />
 
 </div>
@@ -623,13 +617,23 @@ width="100%"
 
 <div align="center">
 
-# `08` // 🛸 GALAGA CONTRIBUTION ARCADE
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/galaga-contribution-graph-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/galaga-contribution-graph.svg">
 
 <img
-src="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/galaga-contribution-graph-dark.svg"
+src="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/galaga-contribution-graph.svg"
 width="100%"
 alt="Galaga Contribution Arcade"
 />
+
+</picture>
 
 <br>
 
@@ -642,8 +646,6 @@ alt="Galaga Contribution Arcade"
 ---
 
 <div align="center">
-
-# `09` // 🧊 3D CONTRIBUTION UNIVERSE
 
 <img
 src="./profile-3d-contrib/profile-green-animate.svg"
@@ -668,7 +670,7 @@ alt="3D GitHub Contribution Universe"
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -678,7 +680,7 @@ alt="3D GitHub Contribution Universe"
 
 </div>
 
-Satellite image analysis and environmental intelligence platform.
+Satellite image analysis and environmental intelligence.
 
 `Computer Vision`
 
@@ -693,43 +695,71 @@ Satellite image analysis and environmental intelligence platform.
 <div align="center">
 
 <a href="https://github.com/subhranshu-dev/agrisat">
-
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
-## 🤖 OMNIAI
+## 🤖 OMNISENSE AI
 
-**Intelligent Multi-System AI Platform**
+**Intelligent Space & Surveillance Platform**
 
 </div>
 
-AI platform focused on intelligent processing, automation and backend integration.
+Real-time computer vision, celestial tracking, threat analytics and interactive geospatial intelligence.
 
-`AI Systems`
+`Computer Vision`
 
-`Automation`
+`Surveillance`
 
-`Real-Time Processing`
+`Space Intelligence`
 
-`Backend`
+`Geospatial AI`
 
 <br>
 
 <div align="center">
 
-<a href="https://github.com/subhranshu-dev/omniai">
-
+<a href="https://github.com/subhranshu-dev/OmniSense_AI">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<div align="center">
+
+## ⚡ RITRON AI
+
+**AI-Powered Intelligent Platform**
+
+</div>
+
+AI-focused project for intelligent processing, automation and real-world system development.
+
+`AI Systems`
+
+`Automation`
+
+`Backend`
+
+`Intelligent Applications`
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/subhranshu-dev/Ritron_AI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
