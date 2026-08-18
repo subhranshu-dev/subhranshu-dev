@@ -56,37 +56,38 @@
 
 # 🧠 ABOUT ME
 
-</div>
-
 <table>
 <tr>
 
-<td width="52%" valign="top">
+<td width="55%" valign="top">
 
-### 👋 Hi, I'm Subhranshu
+### 👋 Subhranshu Nanda
 
-🚀 Building **AI-powered intelligent systems** using Machine Learning, Computer Vision, real-time detection and decision-making.
+**AI/ML Developer · Computer Vision · Full-Stack · SpaceTech**
 
-💻 Building full-stack and API-driven applications with a focus on clean architecture, scalable systems and practical problem solving.
+I build **AI-powered intelligent systems** that combine machine learning, computer vision, real-time processing and backend engineering.
 
-🧠 Exploring modern AI through:
+My work focuses on turning ideas into practical systems — from **vision-based detection and intelligent automation** to **LLM-powered applications and satellite intelligence**.
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- LLMs
-- Generative AI
-- RAG
-- MCP
-- Intelligent Systems
+<br>
 
-🛰️ Interested in **SpaceTech and real-world AI applications**.
+**Core interests**
 
-🤝 Open to collaboration on interesting **AI/ML, Computer Vision and backend projects**.
+`Machine Learning` · `Deep Learning` · `Computer Vision`  
+`LLMs` · `Generative AI` · `RAG` · `MCP`  
+`Intelligent Systems` · `Backend Engineering` · `SpaceTech`
+
+<br>
+
+**Currently exploring**
+
+`LLMs` · `RAG` · `Generative AI` · `MCP`  
+`Computer Vision` · `Transformers` · `AI Agents`  
+`MLOps` · `Cloud` · `Production AI`
 
 </td>
 
-<td width="48%" valign="top">
+<td width="45%" valign="top">
 
 ### ⚡ WHAT I BUILD
 
@@ -95,13 +96,14 @@
 <tr>
 <td align="center">
 
-🧠  
+🧠<br>
 <b>AI SYSTEMS</b>
 
 </td>
+
 <td align="center">
 
-👁️  
+👁️<br>
 <b>VISION</b>
 
 </td>
@@ -110,13 +112,14 @@
 <tr>
 <td align="center">
 
-🤖  
+🤖<br>
 <b>GENAI</b>
 
 </td>
+
 <td align="center">
 
-⚙️  
+⚙️<br>
 <b>BACKEND</b>
 
 </td>
@@ -125,14 +128,15 @@
 <tr>
 <td align="center">
 
-🛰️  
+🛰️<br>
 <b>SPACETECH</b>
 
 </td>
+
 <td align="center">
 
-🚀  
-<b>REAL-WORLD APPS</b>
+🚀<br>
+<b>REAL-WORLD AI</b>
 
 </td>
 </tr>
@@ -147,6 +151,8 @@
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -253,14 +259,21 @@ Real-Time Systems
 
 ### 🤖 MODERN AI
 
-- Large Language Models — **LLMs**
-- Generative AI
-- Prompt Engineering
-- AI Agents
-- Retrieval-Augmented Generation — **RAG**
-- Embeddings
-- Semantic Search
-- Model Integration
+`Large Language Models`
+
+`Generative AI`
+
+`Prompt Engineering`
+
+`AI Agents`
+
+`RAG`
+
+`Embeddings`
+
+`Semantic Search`
+
+`Model Integration`
 
 </td>
 
@@ -268,13 +281,19 @@ Real-Time Systems
 
 ### 🔌 AI INFRASTRUCTURE
 
-- Model Context Protocol — **MCP**
-- AI APIs
-- Knowledge Systems
-- Vector Search
-- Agentic Workflows
-- AI + Backend Integration
-- Production AI Systems
+`MCP`
+
+`AI APIs`
+
+`Knowledge Systems`
+
+`Vector Search`
+
+`Agentic Workflows`
+
+`AI + Backend Integration`
+
+`Production AI Systems`
 
 </td>
 
@@ -579,10 +598,7 @@ Detection · Tracking · Image Processing
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
-
 <table>
-
 <tr>
 
 <td width="50%" align="center">
@@ -606,13 +622,11 @@ alt="GitHub Contribution Activity"
 </td>
 
 </tr>
-
 </table>
 
 <br>
 
 <table>
-
 <tr>
 
 <td align="center">
@@ -652,7 +666,6 @@ alt="Last Commit"
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -661,15 +674,13 @@ alt="Last Commit"
 
 <div align="center">
 
-# 🛸 GALAGA CONTRIBUTION ARCADE
-
 <img
 src="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/galaga-contribution-graph-dark.svg"
 width="100%"
 alt="Galaga Contribution Arcade"
 />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/GAME-GALAGA-06B6D4?style=for-the-badge&labelColor=020617"/>
 <img src="https://img.shields.io/badge/DATA-REAL%20CONTRIBUTIONS-22C55E?style=for-the-badge&labelColor=020617"/>
@@ -681,15 +692,13 @@ alt="Galaga Contribution Arcade"
 
 <div align="center">
 
-# 🧊 3D CONTRIBUTION UNIVERSE
-
 <img
 src="./profile-3d-contrib/profile-green-animate.svg"
 width="100%"
 alt="3D GitHub Contribution Universe"
 />
 
-<br><br>
+<br>
 
 `CONTRIBUTIONS` · `ACTIVITY` · `TIME` · `3D`
 
@@ -705,7 +714,7 @@ alt="3D GitHub Contribution Universe"
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ## 🛰️ AgriSat
 
@@ -725,13 +734,13 @@ AI-based system for:
 
 <br>
 
-🔗 **Project**
-
-https://github.com/subhranshu-dev/agrisat
+<a href="https://github.com/subhranshu-dev/agrisat">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ## 🤖 OmniAI
 
@@ -751,9 +760,9 @@ Integrated AI system focused on:
 
 <br>
 
-🔗 **Project**
-
-https://github.com/subhranshu-dev/omniai
+<a href="https://github.com/subhranshu-dev/omniai">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
@@ -865,6 +874,10 @@ Deployment
 
 # 🌐 CONNECT
 
+<a href="https://github.com/subhranshu-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/subhranshunanda">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -881,21 +894,9 @@ Deployment
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
-<a href="https://github.com/subhranshu-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="mailto:subhransu25112005@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%"/>
-
-<br><br>
-
-<img src="https://visitcount.itsvg.in/api?id=subhranshu-dev&icon=0&color=0"/>
 
 </div>
 
