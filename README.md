@@ -33,7 +33,6 @@ $ mission --current
 > Exploring Computer Vision, LLMs, RAG, GenAI and AI agents.
 
 $ status --current
-> 🎓 BTech CSE (3rd Year)
 > 🚀 Building scalable APIs & intelligent applications
 > 👁️ Exploring Computer Vision & real-time AI
 > 🛰️ Exploring AI + SpaceTech
