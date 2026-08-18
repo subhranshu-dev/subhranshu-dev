@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Subhranshu+%F0%9F%91%8B;AI%2FML+Developer+%7C+Computer+Vision;Full-Stack+Developer+%7C+Backend+Engineer;Building+Intelligent+Systems;AI+%2B+SpaceTech+%2B+Real-World+Innovation"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&lines=Hi+there%2C+I'm+Subhranshu+%F0%9F%91%8B;AI%2FML+Developer+%7C+Computer+Vision;Full-Stack+Developer+%7C+Backend+Engineer;Building+Intelligent+Systems;AI+%2B+SpaceTech+%2B+Real-World+Innovation"
 alt="Animated introduction"
 />
 
@@ -17,51 +17,96 @@ alt="Profile Views"
 <a href="https://github.com/subhranshu-dev">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
+
 &nbsp;
+
 <a href="https://linkedin.com/in/subhranshunanda">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
 </a>
+
 &nbsp;
-<a href="https://kaggle.com/subhranshunanda">
+
+<a href="https://www.kaggle.com/subhransunanda">
 <img src="https://img.shields.io/badge/KAGGLE-000000?style=for-the-badge&logo=kaggle&logoColor=00FF41" alt="Kaggle"/>
 </a>
+
 &nbsp;
+
 <a href="https://huggingface.co/subhranshu05">
 <img src="https://img.shields.io/badge/HUGGING%20FACE-000000?style=for-the-badge&logo=huggingface&logoColor=00FF41" alt="Hugging Face"/>
 </a>
+
 &nbsp;
+
 <a href="https://x.com/SubhrX">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF41" alt="X"/>
 </a>
+
 &nbsp;
+
 <a href="mailto:subhransu25112005@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
 </a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-00FF41?style=for-the-badge&labelColor=05070D" alt="AI ML"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-00FF41?style=for-the-badge&labelColor=05070D" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/GENAI-00FF41?style=for-the-badge&labelColor=05070D" alt="GenAI"/>
+<img src="https://img.shields.io/badge/SPACETECH-00FF41?style=for-the-badge&labelColor=05070D" alt="SpaceTech"/>
+<img src="https://img.shields.io/badge/BACKEND-00FF41?style=for-the-badge&labelColor=05070D" alt="Backend"/>
+
+<br><br>
+
+<code>AI/ML DEVELOPER</code>
+&nbsp;·&nbsp;
+<code>COMPUTER VISION</code>
+&nbsp;·&nbsp;
+<code>FULL-STACK</code>
+&nbsp;·&nbsp;
+<code>SPACETECH</code>
+
 </div>
 
-<br>
+---
+
+<div align="center">
+
+# 🧠 ABOUT ME
+
+</div>
 
 <table>
 <tr>
-<td width="100%">
 
+<td width="60%" valign="top">
+
+bash
 $ whoami
 
-> Subhranshu Nanda — AI/ML Developer & Computer Vision Enthusiast
-
+> Subhranshu Nanda
+> AI/ML Developer • Computer Vision • Full-Stack
 
 $ mission --current
 
-> Building intelligent systems that solve real-world problems.
-> Exploring Computer Vision, LLMs, RAG, GenAI and AI agents.
+> Build intelligent systems that solve
+> real-world problems.
 
+$ focus --now
+
+> Computer Vision
+> LLMs & Generative AI
+> RAG & AI Agents
+> Scalable Backend Systems
+> SpaceTech & Intelligent Systems
 
 $ status --current
-> 🚀 Building scalable APIs & intelligent applications
-> 👁️ Exploring Computer Vision & real-time AI
-> 🛰️ Exploring AI + SpaceTech
-> ⚡ Always learning. Always building. Always shipping.
+
+> 🚀 Building
+> 🧠 Learning
+> 👁️ Experimenting
+> 🛰️ Exploring
+> ⚡ Shipping
 # 🧬 AI SYSTEM BLUEPRINT
 
 <table>
