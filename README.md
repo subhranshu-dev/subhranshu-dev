@@ -585,22 +585,22 @@ Detection · Tracking · Image Processing
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%">
 
 <img
-src="https://streak-stats.demolab.com?user=subhranshu-dev&hide_border=true&background=05070D&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B"
+src="https://streak-stats.demolab.com?user=subhranshu-dev&theme=tokyonight&hide_border=true"
 width="100%"
-alt="GitHub Contribution Streak"
+alt="GitHub Streak"
 />
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&bg_color=05070D&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH"
+src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH"
 width="100%"
-alt="GitHub Contribution Activity"
+alt="GitHub Contribution Graph"
 />
 
 </td>
@@ -611,49 +611,23 @@ alt="GitHub Contribution Activity"
 
 <br>
 
-<table>
+<img src="https://img.shields.io/github/followers/subhranshu-dev?style=for-the-badge&label=FOLLOWERS&color=06B6D4&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/subhranshu-dev?style=for-the-badge&label=TOTAL%20STARS&color=8B5CF6&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/github/repos/subhranshu-dev?style=for-the-badge&label=REPOSITORIES&color=22C55E&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/subhranshu-dev/subhranshu-dev?style=for-the-badge&label=LAST%20COMMIT&color=F59E0B&labelColor=020617"/>
 
-<tr>
+</div>
 
-<td align="center">
+---
 
-<img
-src="https://img.shields.io/github/followers/subhranshu-dev?style=for-the-badge&label=FOLLOWERS&color=06B6D4&labelColor=05070D"
-alt="GitHub Followers"
-/>
+<div align="center">
 
-</td>
+# 📈 CONTRIBUTION GRAPH
 
-<td align="center">
-
-<img
-src="https://img.shields.io/github/stars/subhranshu-dev?style=for-the-badge&label=TOTAL%20STARS&color=8B5CF6&labelColor=05070D"
-alt="GitHub Stars"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-src="https://img.shields.io/github/repos/subhranshu-dev?style=for-the-badge&label=REPOSITORIES&color=22C55E&labelColor=05070D"
-alt="GitHub Repositories"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-src="https://img.shields.io/github/last-commit/subhranshu-dev/subhranshu-dev?style=for-the-badge&label=LAST%20COMMIT&color=F59E0B&labelColor=05070D"
-alt="Last Commit"
-/>
-
-</td>
-
-</tr>
-
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranshu-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=SUBHRANSHU%20NANDA%20%E2%80%94%20CONTRIBUTION%20GRAPH" width="100%"/>
 
 </div>
 
@@ -733,27 +707,55 @@ https://github.com/subhranshu-dev/agrisat
 
 <td width="50%" valign="top">
 
-## 🤖 OmniAI
+## 🤖 OmniSenseAI
 
-### Intelligent Multi-System AI Platform
+### Intelligent Space & Surveillance AI Platform
 
-Integrated AI system focused on:
+AI-powered platform focused on:
 
-- Detection
-- Automation
-- Decision-making
-- Real-time processing
-- Backend integration
+- Real-time computer vision
+- Celestial tracking
+- Threat analytics
+- Interactive geospatial visualization
+- Intelligent surveillance
 
 **Core**
 
-`AI` · `Automation` · `Backend` · `Real-Time Systems`
+`Computer Vision` · `AI` · `SpaceTech` · `Geospatial Systems`
 
 <br>
 
-🔗 **Project**
+🔗 **View Project**
 
-https://github.com/subhranshu-dev/omniai
+https://github.com/subhranshu-dev/OmniSense_AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 RitronAI
+
+### Intelligent AI System
+
+AI-powered system focused on intelligent processing, automation and real-world AI applications.
+
+**Core**
+
+`AI` · `Automation` · `Intelligent Systems`
+
+<br>
+
+🔗 **View Project**
+
+https://github.com/subhranshu-dev/RitronAI
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 
