@@ -16,6 +16,13 @@ AI/ML Developer • Full-Stack Project Builder • SpaceTech Enthusiast
 <img src="https://komarev.com/ghpvc/?username=subhranshu-dev&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/AI%2FML-00F7FF?style=for-the-badge&logo=googlebard&logoColor=black" />
+<img src="https://img.shields.io/badge/Computer%20Vision-39D353?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/SpaceTech-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-111827?style=for-the-badge&logo=fastapi&logoColor=00F7FF" />
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -92,6 +99,28 @@ Become an **AI Engineer (Intelligent Systems + SpaceTech)**
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface\&logoColor=black)](https://huggingface.co/subhranshu05)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/subhranshu-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:subhransu25112005@gmail.com)
+
+---
+
+# ⚡ SYSTEM STATUS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20INTELLIGENT%20SYSTEMS-00F7FF?style=for-the-badge&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/MODE-RESEARCH%20%2B%20BUILD-39D353?style=for-the-badge&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/MISSION-SPACETECH%20%2B%20AI-7C3AED?style=for-the-badge&labelColor=080B12" />
+
+</p>
+
+<p align="center">
+<code>████████████████████████████████████████ 100%</code>
+</p>
+
+<p align="center">
+<i>Turning ideas → intelligent systems → real-world impact.</i>
+</p>
 
 ---
 
@@ -203,146 +232,62 @@ Become an **AI Engineer (Intelligent Systems + SpaceTech)**
 
 ---
 
-# 🐼 Contribution Panda — Code in Motion
+# 🐼 CONTRIBUTION PANDA
 
 <p align="center">
-  <img
-    src="./assets/panda-contributions.svg"
-    alt="Animated panda eating GitHub contributions"
-    width="100%"
-  />
+<img
+src="./assets/panda-contributions.gif"
+alt="Animated panda eating GitHub contributions"
+width="100%"
+/>
 </p>
 
 <p align="center">
-  <b>🐼 Every green square is a snack. Every commit keeps the panda running.</b><br>
-  <sub>Contribution data refreshes automatically every day.</sub>
+
+<b>🐼 Every green square is a snack.</b><br> <sub>Watch the panda run through the contribution grid and eat the code. 😂</sub>
+
 </p>
 
 <p align="center">
-  <code>RUNNING...</code>
-  <code>EATING CONTRIBUTIONS...</code>
-  <code>BUILDING INTELLIGENCE...</code>
-</p>
-
----
-
-# 🧊 3D Contribution Universe
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="3D GitHub contribution calendar"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <b>🛰️ Contribution activity visualized in 3D.</b><br>
-  <sub>Turning commits into a small digital universe.</sub>
+<code>PANDA STATUS: EATING CODE ✓</code>
 </p>
 
 ---
 
-# 🐍 Contribution Arcade
+# 🧊 3D CONTRIBUTION UNIVERSE
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-    width="100%"
-  />
+<img
+src="./profile-3d-contrib/profile-green-animate.svg"
+alt="3D GitHub contribution calendar"
+width="100%"
+/>
 </p>
 
 <p align="center">
-  🐍 <b>Snake Mode</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🐼 <b>Panda Mode</b>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  🧊 <b>3D Mode</b>
+<b>Contribution history — but in another dimension.</b> 🛰️
 </p>
 
 ---
 
-# 🛰️ AI SYSTEM STATUS
+# 🐍 CONTRIBUTION ARCADE
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/AI%20ENGINE-ONLINE-00F7FF?style=for-the-badge&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-ACTIVE-39D353?style=for-the-badge&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/BACKEND-OPERATIONAL-7DD3FC?style=for-the-badge&labelColor=0B0F19" />
-
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/github-snake.svg">
+<img
+src="https://raw.githubusercontent.com/subhranshu-dev/subhranshu-dev/output/github-snake.svg"
+alt="GitHub contribution snake"
+width="100%"
+/>
+</picture>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/SPACE%20TECH-EXPLORING-8B5CF6?style=for-the-badge&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-TRAINING-F97316?style=for-the-badge&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/IDEAS→SYSTEMS-BUILDING-00F7FF?style=for-the-badge&labelColor=0B0F19" />
-
-</p>
-
----
-
-# 🧬 Developer Telemetry
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhranshu-dev&theme=tokyonight" height="180"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhranshu-dev&theme=tokyonight" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhranshu-dev&theme=tokyonight" width="100%"/>
-
-</p>
-
----
-
-# ⚡ Current Mission
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    SUBHRANSHU // AI CORE                   │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [01] BUILD       → Real-world intelligent systems         │
-│  [02] DETECT      → Computer Vision & perception           │
-│  [03] LEARN       → ML • DL • Transformers • DSA           │
-│  [04] EXPLORE     → SpaceTech & DeepTech                   │
-│  [05] DEPLOY      → Scalable APIs & full-stack systems     │
-│  [06] CREATE      → Projects > Theory                      │
-│                                                             │
-│                  STATUS: ALWAYS BUILDING                   │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🌌 Beyond The Code
-
-<p align="center">
-
-```text
-AI
- │
- ├── Computer Vision
- │      ├── Detection
- │      ├── Recognition
- │      └── Decision Making
- │
- ├── Intelligent Systems
- │      ├── Automation
- │      ├── Real-time Processing
- │      └── Autonomous Decisions
- │
- └── SpaceTech
-        ├── Satellite Intelligence
-        ├── Earth Observation
-        └── AI for Exploration
-```
-
+<sub>🐍 Classic contribution mode • 🐼 Panda mode • 🧊 3D mode</sub>
 </p>
 
 ---
@@ -369,21 +314,23 @@ AI
 
 ---
 
-# 🏆 Developer Philosophy
+# 🛰️ MISSION CONTROL
 
 <p align="center">
 
-### <i>"Don't just learn technology. Build something that makes technology useful."</i>
+| SYSTEM             | MISSION                          | STATUS       |
+| ------------------ | -------------------------------- | ------------ |
+| 🧠 AI Engine       | Machine Learning + Deep Learning | 🟢 ACTIVE    |
+| 👁️ Vision Core    | Detection + Computer Vision      | 🟢 ACTIVE    |
+| ⚙️ Backend Core    | APIs + Intelligent Systems       | 🟢 ACTIVE    |
+| 🛰️ Space Module   | SpaceTech + Satellite AI         | 🟡 EXPLORING |
+| 🤖 Autonomous Core | Decision Systems                 | 🟡 BUILDING  |
 
-</p>
-
-<p align="center">
-🧠 Learn → 🛠️ Build → 🧪 Experiment → 🚀 Deploy → 🌌 Explore
 </p>
 
 ---
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
@@ -400,11 +347,10 @@ AI
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:39D353,100:7C3AED&height=100&section=footer"/>
 </p>
 
 <p align="center">
-  <b>🚀 Building today. Exploring tomorrow. Engineering the future.</b>
+  <b>🚀 Build. Detect. Decide. Explore.</b><br>
+  <sub>AI × Computer Vision × Backend × SpaceTech</sub>
 </p>
